@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+header{padding: 5px;
+    background-color: #0776A0;
+}
+
+.a{
+   border:5px solid #FFB600; 
+   background-color: #FFB600;
+   width: 60px;
+   border-radius: 5px;
+    }
+    ul{
+        list-style:url(https://learn.logikaschool.com/uploads/2021/01/Arrow%201_0_1611261359.svg) ;
+    }
+    .c{
+     color: #FF2C00; 
+     font-size: 36px;  
+    }
+    h1{
+        text-align: center;
+    }
+    li{
+        font-size: 25px;
+    }
+    .b{
+    font-size: 45px;
+    text-align: center;
+    border-top: 5px solid black;
+    border-bottom:5px solid black ;
+    }
+    footer{
+        background-color: #024C68;
+        color: white;
+        padding: 15px;
+    }
